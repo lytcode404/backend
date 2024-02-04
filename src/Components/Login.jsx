@@ -64,7 +64,7 @@ const LoginComp = ({ setIsForgetBtnClicked }) => {
                 width={985}
                 aria-hidden="true"
                 className="object-cover w-full h-full dark::hidden"
-                src="/login-office.jpeg"
+                src="/about.png"
                 alt="Office"
               />
             </div>
@@ -183,7 +183,7 @@ const ForgetComp = ({ setIsForgetBtnClicked }) => {
                 width={944}
                 aria-hidden="true"
                 className="object-cover w-full h-full dark::hidden"
-                src="/login-office.jpeg"
+                src="/about.png"
                 alt="Office"
               />
             </div>
